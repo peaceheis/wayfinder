@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  height: 80vh;
+  background: linear-gradient(to top right,  darkgreen 100%, green 24%);
+}
+app-root {
+
+}
